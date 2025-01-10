@@ -1,8 +1,8 @@
-### Describe your changes
+### <u>Describe your changes</u>
 
-### Issue ticket number and link
+### <u>Issue ticket number and link</u>
 
-### Checklist before requesting a review
+### <u>Checklist before requesting a review</u>
 - [ ] I have performed a self-review of my code
 - [ ] If it is a core feature, I have added thorough tests
 - [ ] Do we need to implement analytics?
